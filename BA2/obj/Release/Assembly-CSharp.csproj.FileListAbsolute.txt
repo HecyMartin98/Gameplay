@@ -1,0 +1,2 @@
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\obj\Release\Assembly-CSharp.csprojAssemblyReference.cache
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\obj\Release\Assembly-CSharp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,846 @@
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Assembly-CSharp.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Assembly-CSharp.pdb
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Boo.Lang.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\mscorlib.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\System.Core.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\System.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\System.Runtime.Serialization.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\System.Xml.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\System.Xml.Linq.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.Locator.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.TextMeshPro.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEditor.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AIModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.Analytics.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ARModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AudioModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ClothModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.CoreModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.GridModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.HoloLens.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.InputModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.Networking.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.Timeline.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TLSModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UI.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UIModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UNETModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.VideoModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.VRModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.WindModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.XRModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityScript.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityScript.Lang.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.Cecil.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.SerializationLogic.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.DataContract.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\ExCSS.Unity.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Boo.Lang.Parser.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Boo.Lang.Compiler.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.IvyParser.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Boo.Lang.Useful.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.CecilTools.dll
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEditor.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AIModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ARModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AudioModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ClothModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.CoreModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.GridModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.InputModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TLSModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UIModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UNETModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.VRModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.VideoModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.WindModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.XRModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UI.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.Timeline.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.Networking.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.HoloLens.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+H:\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+H:\GPP\Basic Avatar\BasicAvatar1\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+H:\GPP\Basic Avatar\BasicAvatar1\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+H:\GPP\Basic Avatar\BasicAvatar1\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+H:\GPP\Basic Avatar\BasicAvatar1\obj\Debug\Assembly-CSharp.dll
+H:\GPP\Basic Avatar\BasicAvatar1\obj\Debug\Assembly-CSharp.pdb
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Assembly-CSharp.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Boo.Lang.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\mscorlib.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\System.Core.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\System.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\System.Xml.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\System.Xml.Linq.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.Locator.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEditor.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UI.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityScript.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityScript.Lang.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.Cecil.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.DataContract.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\ExCSS.Unity.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Boo.Lang.Parser.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Boo.Lang.Compiler.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.IvyParser.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Boo.Lang.Useful.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.CecilTools.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEditor.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UI.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\obj\Debug\Assembly-CSharp.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BasicAvatar1\obj\Debug\Assembly-CSharp.pdb
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\obj\Debug\Assembly-CSharp.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\obj\Debug\Assembly-CSharp.pdb
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Assembly-CSharp.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Boo.Lang.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\mscorlib.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\System.Core.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\System.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\System.Runtime.Serialization.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\System.Xml.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\System.Xml.Linq.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.Locator.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.TextMeshPro.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEditor.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AIModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ARModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AudioModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ClothModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.CoreModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.GridModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.InputModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TLSModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UI.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UIModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UNETModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.VideoModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.VRModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.WindModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.XRModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityScript.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityScript.Lang.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.Cecil.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.DataContract.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\ExCSS.Unity.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Boo.Lang.Parser.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Boo.Lang.Compiler.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.IvyParser.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Boo.Lang.Useful.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Unity.CecilTools.dll
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEditor.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AIModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ARModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.AudioModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ClothModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.CoreModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.GridModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.InputModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TLSModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UIModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UNETModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.VRModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.VideoModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.WindModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.XRModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.UI.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+E:\UWE Work\GPP\Basic Avatar\BasicAvatar1\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\Assembly-CSharp.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\Boo.Lang.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\mscorlib.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\System.Core.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\System.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\System.Xml.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\System.Xml.Linq.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\Unity.Locator.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEditor.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.UI.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityScript.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityScript.Lang.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\Unity.Cecil.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\Unity.DataContract.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\ExCSS.Unity.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\Boo.Lang.Parser.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\Boo.Lang.Compiler.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\Unity.IvyParser.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\Boo.Lang.Useful.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\Unity.CecilTools.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEditor.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.UI.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\obj\Debug\Assembly-CSharp.dll
+D:\UWE Work\Year2\GPP\Basic Avatar\BA2\obj\Debug\Assembly-CSharp.pdb
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\Assembly-CSharp.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\Boo.Lang.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\mscorlib.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\System.Core.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\System.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\System.Runtime.Serialization.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\System.Xml.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\System.Xml.Linq.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\Unity.Locator.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\Unity.TextMeshPro.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEditor.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.AIModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.ARModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.AudioModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.ClothModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.CoreModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.GridModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.HoloLens.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.InputModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.Timeline.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.TLSModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.UI.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.UIModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.UNETModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.VideoModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.VRModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.WindModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.XRModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityScript.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityScript.Lang.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\Unity.Cecil.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\Unity.DataContract.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\ExCSS.Unity.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\Boo.Lang.Parser.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\Boo.Lang.Compiler.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\Unity.IvyParser.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\Boo.Lang.Useful.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\Unity.CecilTools.dll
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEditor.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.AIModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.ARModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.AudioModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.ClothModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.CoreModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.GridModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.InputModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.TLSModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.UIModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.UNETModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.VRModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.VideoModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.WindModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.XRModule.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.UI.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.Timeline.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.HoloLens.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+F:\UWE Work\GPP\BA2\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+F:\UWE Work\GPP\BA2\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+F:\UWE Work\GPP\BA2\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+F:\UWE Work\GPP\BA2\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+F:\UWE Work\GPP\BA2\obj\Debug\Assembly-CSharp.dll
+F:\UWE Work\GPP\BA2\obj\Debug\Assembly-CSharp.pdb
